@@ -1,0 +1,15 @@
+{
+  "name": "food-images-classification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/swekiiz/food-101-dataset.git",
+  "author": "swekiiz <best_n.dol@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.6.1",
+    "express": "^4.17.1"
+  }
+}
